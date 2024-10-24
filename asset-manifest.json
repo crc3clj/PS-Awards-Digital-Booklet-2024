@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PS-Awards-Digital-Booklet/static/css/main.136d8007.css",
+    "main.js": "/PS-Awards-Digital-Booklet/static/js/main.8e0b6794.js",
+    "static/js/787.afc80c65.chunk.js": "/PS-Awards-Digital-Booklet/static/js/787.afc80c65.chunk.js",
+    "index.html": "/PS-Awards-Digital-Booklet/index.html",
+    "main.136d8007.css.map": "/PS-Awards-Digital-Booklet/static/css/main.136d8007.css.map",
+    "main.8e0b6794.js.map": "/PS-Awards-Digital-Booklet/static/js/main.8e0b6794.js.map",
+    "787.afc80c65.chunk.js.map": "/PS-Awards-Digital-Booklet/static/js/787.afc80c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136d8007.css",
+    "static/js/main.8e0b6794.js"
+  ]
+}
